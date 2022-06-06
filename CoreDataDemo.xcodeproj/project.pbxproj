@@ -17,6 +17,7 @@
 		33E4655F281A516D003836DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33E4655D281A516D003836DC /* LaunchScreen.storyboard */; };
 		33E46567281A559D003836DC /* DBUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E46566281A559D003836DC /* DBUtilities.swift */; };
 		33E4656D281A6F11003836DC /* EmployeeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E4656C281A6F11003836DC /* EmployeeCell.swift */; };
+		FBF58626284E084D00F68AEF /* utilitiesGit.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF58625284E084D00F68AEF /* utilitiesGit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		33E46560281A516D003836DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		33E46566281A559D003836DC /* DBUtilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBUtilities.swift; sourceTree = "<group>"; };
 		33E4656C281A6F11003836DC /* EmployeeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeCell.swift; sourceTree = "<group>"; };
+		FBF58625284E084D00F68AEF /* utilitiesGit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = utilitiesGit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				33B61E532848737D007A5367 /* Model */,
 				33E4655B281A516D003836DC /* Assets.xcassets */,
 				33E46560281A516D003836DC /* Info.plist */,
+				FBF58625284E084D00F68AEF /* utilitiesGit.swift */,
 			);
 			path = CoreDataDemo;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				33E4655A281A516B003836DC /* CoreDataDemo.xcdatamodeld in Sources */,
 				33E4656D281A6F11003836DC /* EmployeeCell.swift in Sources */,
 				33E46550281A516B003836DC /* AppDelegate.swift in Sources */,
+				FBF58626284E084D00F68AEF /* utilitiesGit.swift in Sources */,
 				33B61E5C284883BF007A5367 /* EmployeeVM.swift in Sources */,
 				33E46552281A516B003836DC /* SceneDelegate.swift in Sources */,
 			);
