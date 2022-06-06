@@ -7,6 +7,10 @@
 
 import Foundation
 func add(){
+
+}
+
+func subtract(){
     
 }
 
