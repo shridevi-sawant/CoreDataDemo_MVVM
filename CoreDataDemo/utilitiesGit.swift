@@ -9,3 +9,7 @@ import Foundation
 func add(){
     
 }
+
+func multiply(){
+    
+}
